@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Feb 15 09:23:15 ICT 2021
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Pham\ Hong\ Manh\\eclipse-workspace\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.0.2.RELEASE.jar=WEB-INF/lib/spring-web-5.0.2.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Pham\ Hong\ Manh\\eclipse-workspace\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.0.2.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.2.RELEASE-sources.jar

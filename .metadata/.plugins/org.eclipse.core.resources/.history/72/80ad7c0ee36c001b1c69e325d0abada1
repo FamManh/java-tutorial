@@ -1,0 +1,10 @@
+package com.manh.demo;
+
+public class HappyNewYear {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
